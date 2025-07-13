@@ -44,7 +44,7 @@ Safe Walk is a web application designed to provide a secure, user-friendly platf
 -    /src
           - App.js
      
---      /components
+      /components
         - Header.js
          - Dashboard.js
          - PatientDetails.js
