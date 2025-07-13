@@ -33,27 +33,27 @@ Safe Walk is a web application designed to provide a secure, user-friendly platf
 ## Project Structure
 
 ---
-/SafeWalk
-  /backend
-    - server.js
-    /routes
-      - users.js
-      - incidents.js
-  /frontend
-    - package.json
-    /src
-      - App.js
-      /components
-        - Header.js
-        - Dashboard.js
-        - PatientDetails.js
-        - IncidentLog.js
-      /redux
-        - store.js
-        - actions.js
-        - reducers.js
-      - App.css
-  - README.md
+-/SafeWalk
+-  /backend
+-   - server.js
+-    /routes
+-      - users.js
+-      - incidents.js
+-  /frontend
+-    - package.json
+-    /src
+-      - App.js
+-      /components
+-        - Header.js
+-        - Dashboard.js
+-        - PatientDetails.js
+-        - IncidentLog.js
+-      /redux
+-       - store.js
+-        - actions.js
+-        - reducers.js
+-      - App.css
+-  - README.md
 
 
 
